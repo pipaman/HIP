@@ -64,7 +64,7 @@ At a minimum a signing step needs to be added to miner's release process. As of
 February 3rd 2020 Helium's Blockchain Engineering team tags miner releases in
 conjunction with nextgate releases. Tagging a repo on GitHub results in a
 gzipped tarball of the source code being published for downloading. That Git tag
-or source arball release can be cryptographically signed so that a package
+or source tarball release can be cryptographically signed so that a package
 manager or build tool can verify that the code is blessed by a particular
 signatory.
 
